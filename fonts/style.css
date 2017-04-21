@@ -150,9 +150,15 @@ h1{
     display: block;
 }
 
-.sprite-alcalde-de-chilca {
-    width: 243px;
-    height: 270px;
+.sprite2 {
+    background-image: url(../image/spritesheet2.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite2-alcalde-de-chilca {
+    width: 124px;
+    height: 139px;
     background-position: -5px -5px;
 }
 
