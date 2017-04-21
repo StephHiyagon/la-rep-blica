@@ -52,9 +52,14 @@ h1{
   content: "\e900";
   font-family: 'ico';
 }
-.icon-bell-o:before {
+.bell:before {
   content: "\e901";
   font-family: 'ico';
+  color:rgb(249, 135, 114);
+  position: fixed;
+  bottom: 140px;
+  left: 88rem;
+  font-size: 3rem;
 }
 .instagram:before {
   content: "\e902";
