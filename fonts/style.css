@@ -1,0 +1,194 @@
+@font-face {
+    font-family: 'fontawesomeregular';
+    src: url('fuente/fontawesome-webfont.woff2') format('woff2'),
+         url('fuente/fontawesome-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+  font-family: 'fontawesomeregular';
+}
+
+@font-face {
+  font-family: 'ico';
+  src:  url('fonts/icomoon.eot?3r81by');
+  src:  url('fonts/icomoon.eot?3r81by#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?3r81by') format('truetype'),
+    url('fonts/icomoon.woff?3r81by') format('woff'),
+    url('fonts/icomoon.svg?3r81by#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.search:before {
+  content: "\e900";
+  font-family: 'ico';
+}
+.icon-magnifier:before {
+  content: "\e900";
+  font-family: 'ico';
+}
+.icon-lookup:before {
+  content: "\e900";
+  font-family: 'ico';
+}
+.icon-find:before {
+  content: "\e900";
+  font-family: 'ico';
+}
+.icon-bell-o:before {
+  content: "\e901";
+  font-family: 'ico';
+}
+.instagram:before {
+  content: "\e902";
+  font-family: 'ico';
+}
+.youtube:before {
+  content: "\e903";
+  font-family: 'ico';
+}
+.icon-youtube:before {
+  content: "\e904";
+  font-family: 'ico';
+}
+.facebook:before {
+  content: "\e905";
+  font-family: 'ico';
+}
+.twitter:before {
+  content: "\e906";
+  font-family: 'ico';
+}
+
+@font-face {
+  font-family: 'icomas';
+  src:  url('fonts2/icomoon.eot?dkckot');
+  src:  url('fonts2/icomoon.eot?dkckot#iefix') format('embedded-opentype'),
+    url('fonts2/icomoon.ttf?dkckot') format('truetype'),
+    url('fonts2/icomoon.woff?dkckot') format('woff'),
+    url('fonts2/icomoon.svg?dkckot#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mas:before {
+  content: "\e900";
+  font-family: 'icomas';
+}
+
+@font-face {
+  font-family: 'icocomp';
+  src:  url('fonts3/icomoon.eot?ecg66z');
+  src:  url('fonts3/icomoon.eot?ecg66z#iefix') format('embedded-opentype'),
+    url('fonts3/icomoon.ttf?ecg66z') format('truetype'),
+    url('fonts3/icomoon.woff?ecg66z') format('woff'),
+    url('fonts3/icomoon.svg?ecg66z#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.share:before {
+  content: "\e900";
+  font-family: 'icocomp';
+}
+
+.sprite {
+    background-image: url(../image/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-alcalde-de-chilca {
+    width: 243px;
+    height: 270px;
+    background-position: -5px -5px;
+}
+
+.sprite-alejandra-aramayo {
+    width: 312px;
+    height: 165px;
+    background-position: -258px -5px;
+}
+
+.sprite-anuncio {
+    width: 310px;
+    height: 86px;
+    background-position: -258px -180px;
+}
+
+.sprite-champions {
+    width: 154px;
+    height: 162px;
+    background-position: -258px -276px;
+}
+
+.sprite-corea-del-norte- {
+    width: 312px;
+    height: 165px;
+    background-position: -580px -5px;
+}
+
+.sprite-logo {
+    width: 281px;
+    height: 49px;
+    background-position: -578px -180px;
+}
+
+.sprite-odebrecht {
+    width: 425px;
+    height: 250px;
+    background-position: -422px -276px;
+}
+
+.sprite-senora {
+    width: 53px;
+    height: 84px;
+    background-position: -869px -180px;
+}

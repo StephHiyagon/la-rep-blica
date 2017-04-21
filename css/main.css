@@ -1,0 +1,95 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+header{
+  background-color: #E00109;
+  position:relative;
+  width:100%;
+}
+
+.title{
+    display:inline-block;
+    position:relative;
+    left:15rem;
+    top:1rem;
+  }
+
+.ico{
+  color:#FFFFFF;
+  font-size:2rem;
+  position:relative;
+  left:47rem;
+  top:-1.5rem;
+  margin-right: 0.5rem;
+}
+
+#buscar{
+  /*width:4.5rem;*/
+  display:inline-block;
+  border:2px solid white;
+  border-radius:50%;
+  color:white;
+  padding:0.4rem;
+  position:absolute;
+  right: 17rem;
+  top:1.7rem;
+  font-family: 'Roboto', sans-serif;
+  font-size:1rem;
+  font-weight: bold;
+  box-sizing: border-box;
+}
+
+.gris{
+  background-color: #4D4D59;
+  padding:0.3rem;
+  height: auto;
+}
+
+ul{
+  margin-left: 11.1rem;
+}
+
+ul>a{
+  text-decoration: none;
+  color:white;
+  font-family: "Roboto",sans-serif;
+  margin-left: 1rem;
+}
+
+#principal{
+  margin-top:2.5rem;
+}
+
+#secund{
+  position:relative;
+}
+
+#p1{
+  width:43.8%;
+  color:white;
+  margin-left: 15rem;
+  overflow:auto;
+}
+
+#p2{
+  margin-top:0.5rem;
+  width:21%;
+  color:white;
+  margin-left: 15rem;
+  overflow:auto;
+}
+
+#p3{
+  position:absolute;
+  top:0;
+  left:36.4rem;
+  width:21%;
+  color:white;
+  overflow:auto;
+}
+
+.der{
+  float:right;
+}
