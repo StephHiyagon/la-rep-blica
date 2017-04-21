@@ -93,3 +93,50 @@ ul>a{
 .der{
   float:right;
 }
+
+aside{
+  position:absolute;
+  top: 11rem;
+  right: -8rem;
+  margin-right: 23rem;
+  width: 21%;
+}
+
+.editorial{
+  color:#E00109;
+}
+
+#edito{
+  background-color: #E00109;
+  color:white;
+  display:inline-block;
+  width: 100%;
+}
+
+.inline-block{
+  display:inline-block;
+}
+
+.celeste{
+  background-color: #1363A9;
+  color:white;
+  overflow: auto;
+  margin-top:0.5rem;
+  vertical-align: center;
+}
+
+h3{
+  margin:0;
+  margin-top:1rem;
+}
+
+div{
+  display: inline-block;
+  text-align: center;
+  position:relative:
+  top:0.5rem;
+}
+
+.anun{
+  margin-top: 0.5rem;
+}
